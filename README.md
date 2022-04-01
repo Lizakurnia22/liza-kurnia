@@ -1,0 +1,2 @@
+# liza-kurnia
+Fuzzy sistem
